@@ -1,0 +1,32 @@
+{
+  "vehicle": [
+    {
+      "model": "R15",
+      "company": "yamaha",
+      "year": "2020",
+      "registrationNo": "ka01as2020",
+      "id": 1
+    },
+    {
+      "model": "Apache180",
+      "company": "TVS",
+      "year": "2023",
+      "registrationNo": "ka01ac2023",
+      "id": 3
+    },
+    {
+      "model": "Bullet Thunder350",
+      "company": "Royal Enfield",
+      "year": "2023",
+      "registrationNo": "ka01qw2003",
+      "id": 4
+    },
+    {
+      "model": "Fz180",
+      "company": "Yamaha",
+      "year": "2023",
+      "registrationNo": "ka03qw2023",
+      "id": 5
+    }
+  ]
+}

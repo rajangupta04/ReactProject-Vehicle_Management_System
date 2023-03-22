@@ -1,0 +1,42 @@
+#form{
+    background-color: aliceblue;
+    width: 100%;
+    /* text-align: center; */
+    margin: auto;
+}
+.form-control{
+    text-align: center;
+}
+.navbar{
+    background-color: azure;
+    margin: auto;
+}
+.link a{
+    background-color: rgb(96, 199, 199);
+    color: white;
+    text-decoration: none;
+    margin: 0px 20px;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.link a:hover{
+    color: rgb(24, 28, 28);
+    background-color: white;
+    transition: 1s;
+}
+h1{
+    color: red;
+    font-family:'Plus Jakarta Sans', sans-serif;
+    font-size: 45px;
+    margin-left: 10px;
+}
+.admin{
+    background-color: white;
+    max-width: 845px;
+    height: 100%;
+    margin-left: 250px;
+    padding: 0px;
+    text-align: center;
+    font-size: 17px;
+}
